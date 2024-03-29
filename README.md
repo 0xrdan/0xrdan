@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I build frontends and backends for web applications
 - 🌱 Always exploring new tools and what's pushing the boundaries
-- 📫 ![Static Badge](https://img.shields.io/badge/-0xrDan-0xrDan?style=flat&logo=x&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.x.com%2Fin%2F0xrdan)
+- 📫 [![Static Badge](https://img.shields.io/badge/-0xrDan-0xrDan?style=flat&logo=x&logoColor=black&labelColor=white)](https://x.com/0xrdan)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
