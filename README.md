@@ -1,15 +1,14 @@
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
 ### 👨‍💻 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the USA.
+<p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="150"  /></p>
+
+<p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the USA.</p>
 
 - 🔭 I build frontends and backends for web applications
 - 🌱 Always exploring new tools and what's pushing the boundaries
 - 📫 [![Static Badge](https://img.shields.io/badge/-0xrDan-0xrDan?style=flat&logo=x&logoColor=black&labelColor=white)](https://x.com/0xrdan)
 
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>       
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
