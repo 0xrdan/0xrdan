@@ -1,10 +1,9 @@
 ### 👨‍💻 About Me :
 <p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="150"  /></p>
 
-<p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the USA.</p>
+<p>Multi Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
-- 🔭 I build frontends and backends for web applications
-- 🌱 Always exploring new tools and what's pushing the boundaries
+- 🔭 Constantly exploring ways to push the boundaries
 - 📫 [![Static Badge](https://img.shields.io/badge/-0xrDan-0xrDan?style=flat&logo=x&logoColor=black&labelColor=white)](https://x.com/0xrdan)
 
 ---
