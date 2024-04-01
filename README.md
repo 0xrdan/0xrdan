@@ -29,4 +29,4 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xrdan&theme=github-dark&date_format=%5BY.%5Dn.j&card_width=300)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xrdan&theme=github-dark&date_format=%5BY.%5Dn.j&card_width=300)]
