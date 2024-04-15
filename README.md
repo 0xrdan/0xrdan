@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vyper/vyper-plain.svg"  title="Vyper" alt="Vyper" width="40" height="40"/>&nbsp;<br/><br/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xrdan&layout=compact&theme=vision-friendly-dark)](https://github.com/0xrdan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xrdan&layout=compact&theme=vision-friendly-dark)](https://github.com/0xrdan)
 
 ---
 
