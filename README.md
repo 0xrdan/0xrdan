@@ -3,7 +3,6 @@
 
 <p>Multi Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
-- 🔭 Constantly exploring ways to push the boundaries
 - 📫 [![Static Badge](https://img.shields.io/badge/-0xrDan-0xrDan?style=flat&logo=x&logoColor=black&labelColor=white)](https://x.com/0xrdan)
 
 ---
