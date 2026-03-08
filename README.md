@@ -1,6 +1,6 @@
 # Hi, I'm Dan
 
-Full-stack engineer with 13+ years of experience, currently focused on **developer tools and enterprise software**. I build bespoke production AI systems and developer tooling — including Claude Code extensions.
+Full-stack engineer with 13+ years of experience, currently focused on **applied AI, developer tools, and enterprise software**. I build bespoke production AI systems and developer tooling — including Claude Code extensions.
 
 ## What I'm Building
 
