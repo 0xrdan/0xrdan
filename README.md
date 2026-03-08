@@ -19,11 +19,13 @@ Full-stack engineer with 13+ years of experience, currently focused on **applied
 
 ## Tech Stack
 
-**Languages:** TypeScript, Python, JavaScript, Rust
-**AI/ML:** Claude API, Gemini API, MCP protocol, evaluation frameworks
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express, FastAPI, PostgreSQL
-**Infrastructure:** AWS (EC2, S3, CloudFront), Docker, Nginx
+**Languages:** Python, JavaScript, .NET, Rust
+**AI/ML:** Claude API, Gemini API, OpenAI/ChatGPT, MCP protocol, prompt engineering, context engineering
+**Frontend:** React, TypeScript
+**Backend:** Node.js, .NET, Strapi, RESTful APIs
+**Database:** PostgreSQL, SQLite, Vector DBs (ChromaDB)
+**Infrastructure:** AWS (EC2, S3, CloudFront), Docker, Nginx, CI/CD
+**Tools:** Claude Code, Git, Microsoft 365 (SharePoint, Teams)
 
 ## Links
 
