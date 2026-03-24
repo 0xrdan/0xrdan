@@ -20,7 +20,7 @@ Full-stack engineer with 13+ years of experience, currently focused on **applied
 ## Tech Stack
 
 **Languages:** Python, JavaScript, .NET, Rust
-**AI/ML:** Claude API, Gemini API, OpenAI/ChatGPT, MCP protocol, prompt engineering, context engineering
+**AI/ML:** Claude API, Gemini API, OpenAI/ChatGPT, MCP, prompt engineering, context engineering
 **Frontend:** React, TypeScript
 **Backend:** Node.js, .NET, Strapi, RESTful APIs
 **Database:** PostgreSQL, SQLite, Vector DBs (ChromaDB)
